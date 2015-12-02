@@ -16,7 +16,7 @@ namespace Sucool.PushRemind
         /// <returns></returns>
         public static string SendMsg(string mobiles, string contents)
         {
-            string url = "http://wcfservice.sucool.com/WCF_T3_0/Other.svc/SendMsg?t=vvZ57V1Z7xvF5lHxLJyKA5WA8UyNBjT9&m="
+            string url = "SendMsg?t=vvZ57V1Z7xvF5lHxLJyKA5WA8UyNBjT9&m="
             + mobiles + "&c=" + contents;
             return RequestHttpGetUrl(url);
         }
