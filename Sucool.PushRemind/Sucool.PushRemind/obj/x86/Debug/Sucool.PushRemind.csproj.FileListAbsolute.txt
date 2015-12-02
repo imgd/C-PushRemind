@@ -1,0 +1,10 @@
+G:\mywork\mywork\Sucool.PushRemind\Sucool.PushRemind\bin\Debug\Sucool.PushRemind.exe
+G:\mywork\mywork\Sucool.PushRemind\Sucool.PushRemind\bin\Debug\Sucool.PushRemind.pdb
+G:\mywork\mywork\Sucool.PushRemind\Sucool.PushRemind\obj\x86\Debug\Sucool.PushRemind.MainForm.resources
+G:\mywork\mywork\Sucool.PushRemind\Sucool.PushRemind\obj\x86\Debug\Sucool.PushRemind.Properties.Resources.resources
+G:\mywork\mywork\Sucool.PushRemind\Sucool.PushRemind\obj\x86\Debug\Sucool.PushRemind.csproj.GenerateResource.Cache
+G:\mywork\mywork\Sucool.PushRemind\Sucool.PushRemind\obj\x86\Debug\Sucool.PushRemind.exe
+G:\mywork\mywork\Sucool.PushRemind\Sucool.PushRemind\obj\x86\Debug\Sucool.PushRemind.pdb
+G:\mywork\mywork\Sucool.PushRemind\Sucool.PushRemind\bin\Debug\Sucool.PushRemind.exe.config
+G:\mywork\mywork\Sucool.PushRemind\Sucool.PushRemind\bin\Debug\Newtonsoft.Json.dll
+G:\mywork\mywork\Sucool.PushRemind\Sucool.PushRemind\obj\x86\Debug\Sucool.PushRemind.csprojResolveAssemblyReference.cache
